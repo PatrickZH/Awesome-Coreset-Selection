@@ -86,7 +86,7 @@
 ### Contrastive Learning
 #### 2021
 + Are all negatives created equal in contrastive instance discrimination? (arXiv 2020) [PDF](https://arxiv.org/pdf/2010.06682.pdf)
-+ Extending Contrastive Learning to Unsupervised Coreset Selection(arXiv 2021) [PDF](https://arxiv.org/abs/2103.03574) [Code](https://github.com/heechul- knu/self_ supervised_learning_without_data)
++ Extending Contrastive Learning to Unsupervised Coreset Selection(arXiv 2021) [PDF](https://arxiv.org/abs/2103.03574)
 
 ### Robust Learning
 #### 2021
