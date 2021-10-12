@@ -75,7 +75,8 @@
 + Active Learning for Convolutional Neural Networks: A Core-Set Approach (ICLR 2018) [PDF](https://openreview.net/pdf?id=H1aIuk-RW) [Code](https://github.com/ozansener/active_learning_coreset)
 
 ### Neural Architecture Search
-
+#### 2021
++ Core-set Sampling for Efficient Neural Architecture Search (arXiv 2021) [PDF](https://arxiv.org/abs/2107.06869)
 
 ### Semi-supervised Learning
 #### 2021
