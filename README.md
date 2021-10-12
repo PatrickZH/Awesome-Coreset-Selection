@@ -1,5 +1,7 @@
 # Awesome-Coreset-Selection
 ## Survey
++ Coresets-methods and history: A theoreticians design pattern for approximation and streaming algorithms (KI-Künstliche Intelligenz 2018) [PDF](https://cs.au.dk/~schwiegelshohn/MSki2018.pdf)
++ Introduction to Core-sets: an Updated Survey (arXiv 2020) [PDF](https://arxiv.org/pdf/2011.09384.pdf)
 ## Papers
 ### Fast Model Training
 #### 2021 
@@ -20,7 +22,6 @@
 #### 2020
 + Uncovering Coresets for Classification With Multi-Objective Evolutionary Algorithms(arXiv 2020) [PDF](https://arxiv.org/abs/2002.08645) [Code](https://github.com/albertotonda/prototype-set-discovery)
 + On Coresets for Regularized Regression(ICML 2020) [PDF](https://proceedings.mlr.press/v119/chhaya20b.html) [Code](https://github.com/RachitChhaya/RegularizedRegressionCoresets)
-+ Coresets for Clustering in Graphs of Bounded Treewidth(ICML 2020) [PDF](https://proceedings.mlr.press/v119/baker20a.html)
 + Coresets for Regressions with Panel Data(NeurIPS 2020) [PDF](https://proceedings.neurips.cc/paper/2020/hash/03287fcce194dbd958c2ec5b33705912-Abstract.html) [Code](https://github.com/huanglx12/Coresets-for-regressions-with-panel-data)
 + Coresets for Data-efficient Training of Machine Learning Models(ICML 2020) [PDF](http://proceedings.mlr.press/v119/mirzasoleiman20a.html) [Code](https://github.com/baharanm/craig)
 #### 2019
@@ -77,6 +78,9 @@
 ### Neural Architecture Search
 #### 2021
 + Core-set Sampling for Efficient Neural Architecture Search (arXiv 2021) [PDF](https://arxiv.org/abs/2107.06869)
+
+### Clustering
++ Coresets for Clustering in Graphs of Bounded Treewidth(ICML 2020) [PDF](https://proceedings.mlr.press/v119/baker20a.html)
 
 ### Semi-supervised Learning
 #### 2021
