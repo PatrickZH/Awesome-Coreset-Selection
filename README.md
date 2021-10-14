@@ -3,7 +3,7 @@
 + Coresets-methods and history: A theoreticians design pattern for approximation and streaming algorithms (KI-Künstliche Intelligenz 2018) [PDF](https://cs.au.dk/~schwiegelshohn/MSki2018.pdf)
 + Introduction to Core-sets: an Updated Survey (arXiv 2020) [PDF](https://arxiv.org/pdf/2011.09384.pdf)
 ## Papers
-### Fast Model Training
+### Efficient Model Training (fast & scalable)
 #### 2021 
 + Face-NMS: A Core-set Selection Approach for Efficient Face Recognition (arXiv 2021) [PDF](https://arxiv.org/pdf/2109.04698.pdf)
 + Learning Fast Sample Re-weighting Without Reward Data (arXiv 2021) [PDF](https://arxiv.org/abs/2109.03216) [Code](https://github.com/google-research/google-research/tree/master/ieg)
@@ -33,8 +33,6 @@
 + New Frameworks for Offline and Streaming Coreset Constructions(arXiv 2016) [PDF](https://arxiv.org/abs/1612.00889)
 #### 2012
 + Super-Samples from Kernel Herding(arXiv 2012) [PDF](https://arxiv.org/abs/1203.3472) [Code](https://github.com/rrphys/KernelHerding)
-#### 2011
-+ Scalable Training of Mixture Models via Coresets(NeurIPS 2011) [PDF](https://proceedings.neurips.cc/paper/2011/hash/2b6d65b9a9445c4271ab9076ead5605a-Abstract.html)
 
 
 
@@ -84,6 +82,8 @@
 + Coresets for Nonparametric Estimation - the Case of DP-Means(ICML 2015) [PDF](https://proceedings.mlr.press/v37/bachem15.html)
 #### 2014
 + Distributed Balanced Clustering via Mapping Coresets (NeurlPS 2014) [PDF](https://proceedings.neurips.cc/paper/2014/hash/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Abstract.html)
+#### 2011
++ Scalable Training of Mixture Models via Coresets(NeurIPS 2011) [PDF](https://proceedings.neurips.cc/paper/2011/hash/2b6d65b9a9445c4271ab9076ead5605a-Abstract.html)
 
 
 
