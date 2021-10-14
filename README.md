@@ -67,7 +67,7 @@
 #### 2021
 + Core-set Sampling for Efficient Neural Architecture Search (arXiv 2021) [PDF](https://arxiv.org/abs/2107.06869)
 
-### Clustering & Distribution Estimation
+### Clustering & Distribution Approximation
 #### 2021
 + Coresets for constrained k-median and k-means clustering in low dimensional Euclidean space (arXiv 2021) [PDF](https://arxiv.org/abs/2106.07319)
 #### 2020
