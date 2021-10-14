@@ -31,8 +31,8 @@
 + Subset Selection and Summarization in Sequential Data(NeurIPS 2017) [PDF](https://proceedings.neurips.cc/paper/2017/hash/8fecb20817b3847419bb3de39a609afe-Abstract.html)
 #### 2016
 + New Frameworks for Offline and Streaming Coreset Constructions(arXiv 2016) [PDF](https://arxiv.org/abs/1612.00889)
-
-
+#### 2014
++ Coresets for k-Segmentation of Streaming Data [PDF](https://proceedings.neurips.cc/paper/2014/file/bca82e41ee7b0833588399b1fcd177c7-Paper.pdf)
 
 ### Approximating Data Distribution
 #### 2012
