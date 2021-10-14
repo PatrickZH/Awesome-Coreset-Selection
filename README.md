@@ -34,13 +34,6 @@
 #### 2014
 + Coresets for k-Segmentation of Streaming Data [PDF](https://proceedings.neurips.cc/paper/2014/file/bca82e41ee7b0833588399b1fcd177c7-Paper.pdf)
 
-### Approximating Data Distribution
-#### 2012
-+ Super-Samples from Kernel Herding(arXiv 2012) [PDF](https://arxiv.org/abs/1203.3472) [Code](https://github.com/rrphys/KernelHerding)
-#### 2011
-+ Scalable Training of Mixture Models via Coresets(NeurIPS 2011) [PDF](https://proceedings.neurips.cc/paper/2011/hash/2b6d65b9a9445c4271ab9076ead5605a-Abstract.html)
-
-
 
 ### Continual Learning
 #### 2021
@@ -74,7 +67,7 @@
 #### 2021
 + Core-set Sampling for Efficient Neural Architecture Search (arXiv 2021) [PDF](https://arxiv.org/abs/2107.06869)
 
-### Clustering
+### Clustering & Distribution Estimation
 #### 2021
 + Coresets for constrained k-median and k-means clustering in low dimensional Euclidean space (arXiv 2021) [PDF](https://arxiv.org/abs/2106.07319)
 #### 2020
@@ -88,6 +81,10 @@
 + Coresets for Nonparametric Estimation - the Case of DP-Means(ICML 2015) [PDF](https://proceedings.mlr.press/v37/bachem15.html)
 #### 2014
 + Distributed Balanced Clustering via Mapping Coresets (NeurlPS 2014) [PDF](https://proceedings.neurips.cc/paper/2014/hash/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Abstract.html)
+#### 2012
++ Super-Samples from Kernel Herding(arXiv 2012) [PDF](https://arxiv.org/abs/1203.3472) [Code](https://github.com/rrphys/KernelHerding)
+#### 2011
++ Scalable Training of Mixture Models via Coresets(NeurIPS 2011) [PDF](https://proceedings.neurips.cc/paper/2011/hash/2b6d65b9a9445c4271ab9076ead5605a-Abstract.html)
 
 
 
