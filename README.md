@@ -31,8 +31,14 @@
 + Subset Selection and Summarization in Sequential Data(NeurIPS 2017) [PDF](https://proceedings.neurips.cc/paper/2017/hash/8fecb20817b3847419bb3de39a609afe-Abstract.html)
 #### 2016
 + New Frameworks for Offline and Streaming Coreset Constructions(arXiv 2016) [PDF](https://arxiv.org/abs/1612.00889)
+
+
+
+### Approximating Data Distribution
 #### 2012
 + Super-Samples from Kernel Herding(arXiv 2012) [PDF](https://arxiv.org/abs/1203.3472) [Code](https://github.com/rrphys/KernelHerding)
+#### 2011
++ Scalable Training of Mixture Models via Coresets(NeurIPS 2011) [PDF](https://proceedings.neurips.cc/paper/2011/hash/2b6d65b9a9445c4271ab9076ead5605a-Abstract.html)
 
 
 
@@ -82,8 +88,6 @@
 + Coresets for Nonparametric Estimation - the Case of DP-Means(ICML 2015) [PDF](https://proceedings.mlr.press/v37/bachem15.html)
 #### 2014
 + Distributed Balanced Clustering via Mapping Coresets (NeurlPS 2014) [PDF](https://proceedings.neurips.cc/paper/2014/hash/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Abstract.html)
-#### 2011
-+ Scalable Training of Mixture Models via Coresets(NeurIPS 2011) [PDF](https://proceedings.neurips.cc/paper/2011/hash/2b6d65b9a9445c4271ab9076ead5605a-Abstract.html)
 
 
 
