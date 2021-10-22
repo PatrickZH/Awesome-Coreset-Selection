@@ -29,11 +29,11 @@
 + Learning and Data Selection in Big Datasets(ICML 2019) [PDF](https://arxiv.org/abs/2107.07075)
 + Preventing Adversarial Use of Datasets through Fair Core-Set Construction(arXiv 2019) [PDF](https://arxiv.org/abs/1910.10871)
 #### 2017
-+ Subset Selection and Summarization in Sequential Data(NeurIPS 2017) [PDF](https://proceedings.neurips.cc/paper/2017/hash/8fecb20817b3847419bb3de39a609afe-Abstract.html)
++ Subset Selection and Summarization in Sequential Data (NeurIPS 2017) [PDF](https://proceedings.neurips.cc/paper/2017/hash/8fecb20817b3847419bb3de39a609afe-Abstract.html)
 #### 2016
-+ New Frameworks for Offline and Streaming Coreset Constructions(arXiv 2016) [PDF](https://arxiv.org/abs/1612.00889)
++ New Frameworks for Offline and Streaming Coreset Constructions (arXiv 2016) [PDF](https://arxiv.org/abs/1612.00889)
 #### 2014
-+ Coresets for k-Segmentation of Streaming Data [PDF](https://proceedings.neurips.cc/paper/2014/file/bca82e41ee7b0833588399b1fcd177c7-Paper.pdf)
++ Coresets for k-Segmentation of Streaming Data (NeurIPS 2014) [PDF](https://proceedings.neurips.cc/paper/2014/file/bca82e41ee7b0833588399b1fcd177c7-Paper.pdf)
 
 
 ### Continual Learning
@@ -55,14 +55,12 @@
 + Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision(WACV 2019) [PDF](https://ieeexplore.ieee.org/abstract/document/8658965)
 + Bayesian Batch Active Learning as Sparse Subset Approximation(NeurIPS 2019) [PDF](https://proceedings.neurips.cc/paper/2019/hash/84c2d4860a0fc27bcf854c444fb8b400-Abstract.html) [Code](https://github.com/rpinsler/active-bayesian-coresets)
 #### 2018
++ Active Learning for Convolutional Neural Networks: A Core-Set Approach (ICLR 2018) [PDF](https://openreview.net/pdf?id=H1aIuk-RW) [Code](https://github.com/ozansener/active_learning_coreset)
 + Adversarial Active Learning for Deep Networks: a Margin Based Approach(arXiv 2018) [PDF](https://arxiv.org/abs/1802.09841)
 #### 2017
 + Non-Uniform Subset Selection for Active Learning in Structured Data(CVPR 2017) [PDF](https://openaccess.thecvf.com/content_cvpr_2017/html/Paul_Non-Uniform_Subset_Selection_CVPR_2017_paper.html)
 #### 2015
 + Submodularity in Data Subset Selection and Active Learning(ICML 2015) [PDF](https://proceedings.mlr.press/v37/wei15.html)
-
-#### 2018
-+ Active Learning for Convolutional Neural Networks: A Core-Set Approach (ICLR 2018) [PDF](https://openreview.net/pdf?id=H1aIuk-RW) [Code](https://github.com/ozansener/active_learning_coreset)
 
 ### Neural Architecture Search
 #### 2021
