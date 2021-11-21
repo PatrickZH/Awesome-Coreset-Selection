@@ -137,4 +137,6 @@
 ## Workshops
 + SubSetML: Subset Selection in Machine Learning: From Theory to Practice (Workshop @ ICML 2021) [Site](https://sites.google.com/view/icml-2021-subsetml/home)
 
+<!---
 ## Challenges & Competitions
+---> 
