@@ -90,7 +90,7 @@
 ### Semi-supervised Learning
 #### 2021
 + Semi-supervised Batch Active Learning via Bilevel Optimization(ICASSP 2021) [PDF](https://ieeexplore.ieee.org/abstract/document/9414206/) [Code](https://github.com/zalanborsos/bilevel_coresets)
-+ RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning(arXiv 2021) [PDF](https://arxiv.org/abs/2106.07760)
++ RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning(NeurIPS 2021) [PDF](https://arxiv.org/abs/2106.07760)
 
 ### Contrastive Learning
 #### 2021
