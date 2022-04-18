@@ -13,7 +13,7 @@
 + Dataset Condensation with Differentiable Siamese Augmentation(ICML 2021) [PDF](https://proceedings.mlr.press/v139/nguyen21e.html)
 + Coresets for Classification -- Simplified and Strengthened(arXiv 2021) [PDF](https://arxiv.org/abs/2106.04254)
 + GRAD-MATCH: Gradient Matching based Data Subset Selection for Efficient Deep Model Training(ICML 2021) [PDF](https://proceedings.mlr.press/v139/killamsetty21a.html) [Code](https://github.com/decile-team/cords)
-+ GLISTER: Generalization Based Data Subset Selection for Efficient and Robust Learning(arXiv 2021) [PDF](https://arxiv.org/abs/2012.10630) [Code](https://github.com/dssresearch/GLISTER)
++ GLISTER: Generalization Based Data Subset Selection for Efficient and Robust Learning(AAAI 2021) [PDF](https://arxiv.org/abs/2012.10630) [Code](https://github.com/dssresearch/GLISTER)
 + SVP-CF: Selection via Proxy for Collaborative Filtering Data(arXiv 2021) [PDF](https://arxiv.org/abs/2107.04984)
 + Dataset Condensation with Gradient Matching(ICLR 2021) [PDF](https://arxiv.org/abs/2006.05929)
 + Deep Learning on a Data Diet: Finding Important Examples Early in Training(arXiv 2021) [PDF](https://arxiv.org/abs/2107.07075)
