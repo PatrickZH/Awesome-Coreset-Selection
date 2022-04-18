@@ -74,7 +74,7 @@
 + Coresets for Clustering in Graphs of Bounded Treewidth(ICML 2020) [PDF](https://proceedings.mlr.press/v119/baker20a.html)
 #### 2019
 + Coresets for Clustering with Fairness Constraints (NeurlPS 2019) [PDF](https://proceedings.neurips.cc/paper/2019/hash/810dfbbebb17302018ae903e9cb7a483-Abstract.html) [Code](https://github.com/sfjiang1990/Coresets-for-Clustering-with-Fairness-Constraints)
-+ Coresets for Ordered Weighted Clustering (ICML 2019) [PDF](https://proceedings.mlr.press/v97/braverman19a.html)#### 2018
++ Coresets for Ordered Weighted Clustering (ICML 2019) [PDF](https://proceedings.mlr.press/v97/braverman19a.html) 2018
 + Strong Coresets for k-Median and Subspace Approximation: Goodbye Dimension(Annual IEEE Symposium on Foundations of Computer Science 2018) [PDF](https://ieeexplore.ieee.org/abstract/document/8555159)
 #### 2015
 + Coresets for Nonparametric Estimation - the Case of DP-Means(ICML 2015) [PDF](https://proceedings.mlr.press/v37/bachem15.html)
