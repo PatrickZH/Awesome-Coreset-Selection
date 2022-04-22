@@ -1,5 +1,6 @@
 # Awesome-Coreset-Selection
-## Survey
+## Survey + Library
++ DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning (arXiv 2022) [PDF](https://arxiv.org/pdf/2204.08499.pdf)
 + Introduction to Core-sets: an Updated Survey (arXiv 2020) [PDF](https://arxiv.org/pdf/2011.09384.pdf)
 + Coresets-methods and history: A theoreticians design pattern for approximation and streaming algorithms (KI-Künstliche Intelligenz 2018) [PDF](https://cs.au.dk/~schwiegelshohn/MSki2018.pdf)
 + Coresets and sketches (arXiv 2016) [PDF](https://arxiv.org/abs/1601.00617)
