@@ -47,6 +47,8 @@
 + Gradient based sample selection for online continual learning(NeurIPS 2019) [PDF](https://proceedings.neurips.cc/paper/2019/hash/e562cd9c0768d5464b64cf61da7fc6bb-Abstract.html) [Code](https://github.com/rahafaljundi/Gradient-based-Sample-Selection)
 
 ### Active Learning
+#### 2022
++ Active Learning is a Strong Baseline for Data Subset SelectionDownload PDF (NeurIPS 2022 Workshop) [PDF](https://openreview.net/forum?id=PAgpyQ5rGS) [Code](https://github.com/dongmean/AL_vs_SubsetSelection/blob/main/README.md)
 #### 2021
 + Active Learning by Acquiring Contrastive Examples (arXiv 2021) [PDF](https://arxiv.org/abs/2109.03764) [Code](https://github.com/mourga/contrastive-active-learning)
 + SIMILAR: Submodular Information Measures Based Active Learning In Realistic Scenarios(arXiv 2021) [PDF](https://arxiv.org/abs/2107.00717)
