@@ -102,6 +102,8 @@
 + Are all negatives created equal in contrastive instance discrimination? (arXiv 2020) [PDF](https://arxiv.org/pdf/2010.06682.pdf)
 
 ### Robust Learning
+#### 2023
++ Robust Data Pruning under Label Noise via Maximizing Re-labeling Accuracy (NeurIPS 2023) [PDF](https://arxiv.org/pdf/2311.01002.pdf)
 #### 2021
 + Active label cleaning: Improving dataset quality under resource constraints (arXiv 2021) [PDF](https://arxiv.org/abs/2109.00574v1)
 + Just Train Twice: Improving Group Robustness without Training Group Information(ICML 2021) [PDF](http://proceedings.mlr.press/v139/liu21f.html) [Code](https://github.com/anniesch/jtt)
