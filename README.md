@@ -6,6 +6,9 @@
 + Coresets and sketches (arXiv 2016) [PDF](https://arxiv.org/abs/1601.00617)
 ## Papers
 ### Efficient Model Training (fast & scalable)
+
+#### 2023
++ Loss-Curvature Matching for Dataset Selection and Condensation (AISTATS 2023) [PDF](https://arxiv.org/abs/2303.04449) [Code](https://github.com/SJShin-AI/LCMat)
 #### 2021 
 + Face-NMS: A Core-set Selection Approach for Efficient Face Recognition (arXiv 2021) [PDF](https://arxiv.org/pdf/2109.04698.pdf)
 + Learning Fast Sample Re-weighting Without Reward Data (arXiv 2021) [PDF](https://arxiv.org/abs/2109.03216) [Code](https://github.com/google-research/google-research/tree/master/ieg)
